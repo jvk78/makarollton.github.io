@@ -160,7 +160,7 @@ a {
   color: #fff;
   text-shadow: 1px 1px 2px #000;
 }
-/* Contacts */
+/* Home */
 .smal__nav {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -508,6 +508,9 @@ iframe,
   outline: none;
 }
 /* Contacts */
+#contact_title{
+  margin: 35px auto;
+} 
 .left {
   -webkit-box-align: center;
   -ms-flex-align: center;
