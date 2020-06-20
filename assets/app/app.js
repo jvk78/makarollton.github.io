@@ -1,4 +1,3 @@
-window.onload = function() {
 const homeSec = document.getElementById('home');
 const smNav = document.getElementById('smal__nav');
 const smNavMenu = document.getElementById('sm__nav__menu');
@@ -252,4 +251,3 @@ function showMap(btn) {
 }
 showMap(openMap);
 showMap(openMapSm);
-}
