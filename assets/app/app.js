@@ -24,7 +24,7 @@ let scrolled;
 let scrollSec;
 let scrollPos;
 let posTop;
-let speedScroll = 50;
+let speedScroll = 70;
 
 
 /* -=Smooth Scroll =- */
