@@ -725,6 +725,18 @@ iframe,
     margin-bottom: 20px;
   }
 }
+/* -=768=-*/
+@media screen and (max-width: 768px) {
+  .sm__nav__link,
+  .lang {
+    font-size: 14px;
+  }
+  .lang {
+  width: 25px;
+  height: 25px;
+  line-height: 23px;
+  }
+}
 /* -=736=-*/
 @media screen and (max-width: 736px) {
   .sm__nav__link,
