@@ -178,10 +178,10 @@ function runVideo() {
 
   playVideo.addEventListener('click', function () {
     playVideo.style.opacity = '0';
+    createVideo();
     setTimeout(function () {
       playVideo.style.display = 'none'
     }, 500);
-    createVideo()
   })
 }
 runVideo()
